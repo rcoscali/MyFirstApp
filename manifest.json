@@ -1,0 +1,11 @@
+{
+    "name": "MyFirstApp",
+    "identifier": "org.ownrcsnet.myfirstapp",
+    "description": "My Very First App for Freebox Player",
+    "entryPoints": {
+        "main": {
+            "file": "MyFirstApp.qml",
+            "default": true
+        }
+    }
+}
